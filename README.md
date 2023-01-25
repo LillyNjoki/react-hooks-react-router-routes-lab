@@ -1,6 +1,5 @@
 # Basic Routes Lab
 
-## Learning Goals
 
 - Use the `<Route>` component to display different components based on the URL
 - Use the `<NavBar>` component to allow client-side navigation
